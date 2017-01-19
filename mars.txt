@@ -1,5 +1,5 @@
 Mars:
 mars is red 
 and dry
-This is a new sentence.
-This is to check a confilict
+This is a new sentence
+Let's see if this works.
